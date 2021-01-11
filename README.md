@@ -3,6 +3,9 @@
   <h2 align="center">  🛹 Homero Lucas do Prado 🛹 </h2>
 </p>
 
+-   💻 &lt;Junior FullStack Developer&gt;
+-   🎓 [&lt;Academia de Código\_&gt;](https://www.academiadecodigo.org/ '<Academia de Código_>');
+-   📍 From Taubaté-SP, Brazil 🇧🇷. Living in Oeiras, Portugal 🇵🇹;
 -   🤝 I'm currently looking for a new role;
 -   📝 I'm currently learning intermediate and advanced JavaScript concepts and beginning to learn React and MongoDB;
 -   📲 You can reach me on [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hmr.prd@gmail.com)](mailto:hmr.prd@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hlucas13/)](https://www.linkedin.com/in/hlucas13/);
