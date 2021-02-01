@@ -74,7 +74,8 @@
 ## Statistics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlucas13&color=red" alt="hlucas13" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hlucas13&show_icons=true&theme=dracula" alt="hlucas13" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hlucas13&include_all_commits=true&count_private=true&custom_title=Homero's GitHub Stats&show_icons=true&title_color=DE233E&text_color=FFFFFF&icon_color=959595&bg_color=000000" alt="hlucas13" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlucas13&layout=compact&langs_count=8&title_color=DE233E&text_color=FFFFFF&bg_color=000000" alt="hlucas13" /></p>
 
 ## Let's connect:
 
