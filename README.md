@@ -3,11 +3,11 @@
   <h2 align="center">  🛹 Homero Lucas do Prado 🛹 </h2>
 </p>
 
--   💻 &lt;Junior FullStack Developer&gt;
--   🎓 [&lt;Academia de Código\_&gt;](https://www.academiadecodigo.org/ '<Academia de Código_>');
+-   💻 &lt;Junior Front-end Developer&gt; @ [VOQIN'](https://www.voqin.com/ "VOQIN'");
+-   🎓 [<Academia de Código\_>](https://www.academiadecodigo.org/ '<Academia de Código_>');
 -   📍 From Taubaté-SP, Brazil 🇧🇷. Living in Oeiras, Portugal 🇵🇹;
--   🤝 I'm currently looking for a new role;
--   📝 I'm currently learning intermediate and advanced JavaScript concepts and beginning to learn React and MongoDB;
+<!-- -   🤝 I'm currently looking for a new role; -->
+-   📝 I'm currently learning intermediate and advanced JavaScript concepts, and starting to learn Flutter;
 -   📲 You can reach me on [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hmr.prd@gmail.com)](mailto:hmr.prd@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hlucas13/)](https://www.linkedin.com/in/hlucas13/);
 -   📄 You can download my CV [here (EN)](https://github.com/hlucas13/hlucas13/blob/main/assets/CV_-_Homero_do_Prado_-_EN.pdf 'here (EN)') or [here (PT)](https://github.com/hlucas13/hlucas13/blob/main/assets/CV_-_Homero_do_Prado_-_PT.pdf 'here (PT)').
 
@@ -46,10 +46,11 @@
 #### Frameworks and Libraries
 
 <p align="left">
+<img src="https://github.com/hlucas13/hlucas13/blob/main/icons/angular.png" alt="Angular" height="120px" title="Angular"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/bootstrap.png" alt="Bootstrap" height="120px" title="Bootstrap"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/hibernate.png" alt="Hibernate" height="120px" title="Hibernate"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/jquery.png" alt="jQuery" height="120px" title="jQuery"/>
-<img src="https://github.com/hlucas13/hlucas13/blob/main/icons/react.png" alt="React" height="120px" title="React"/>
+<!-- <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/react.png" alt="React" height="120px" title="React"/> -->
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/spring.png" alt="Spring" height="120px" title="Spring"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/vue.png" alt="Vue" height="120px" title="Vue"/>
 </p>
