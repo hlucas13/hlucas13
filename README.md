@@ -48,6 +48,7 @@
 <p align="left">
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/angular.png" alt="Angular" height="80px" title="Angular"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/bootstrap.png" alt="Bootstrap" height="80px" title="Bootstrap"/>
+<img src="https://github.com/hlucas13/hlucas13/blob/main/icons/express.png" alt="Express" height="80px" title="Express"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/hibernate.png" alt="Hibernate" height="80px" title="Hibernate"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/jquery.png" alt="jQuery" height="80px" title="jQuery"/>
 <!-- <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/react.png" alt="React" height="80px" title="React"/> -->
@@ -58,11 +59,13 @@
 #### Tools
 
 <p align="left">
+<img src="https://github.com/hlucas13/hlucas13/blob/main/icons/android-studio.png" alt="Android Studio" height="80px" title="Android Studio"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/ant.png" alt="Ant" height="80px" title="Ant"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/intellij.png" alt="IntelliJ Idea" height="80px" title="IntelliJ Idea"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/maven.png" alt="Maven" height="80px" title="Maven"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/tomcat.png" alt="Tomcat" height="80px" title="Tomcat"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/visualstudiocode.png" alt="Visual Studio Code" height="80px" title="Visual Studio Code"/>
+<img src="https://github.com/hlucas13/hlucas13/blob/main/icons/webstorm.png" alt="WebStorm" height="80px" title="WebStorm"/>
 </p>
 
 #### OS
