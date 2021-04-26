@@ -25,7 +25,6 @@
 
 <p align="left">
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/dart.png" alt="Dart" height="80px" title="Dart"/>
-<img src="https://github.com/hlucas13/hlucas13/blob/main/icons/flutter.png" alt="Flutter" height="80px" title="Flutter"/>
 </p>
 
 #### Backend
@@ -49,6 +48,7 @@
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/angular.png" alt="Angular" height="80px" title="Angular"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/bootstrap.png" alt="Bootstrap" height="80px" title="Bootstrap"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/express.png" alt="Express" height="80px" title="Express"/>
+<img src="https://github.com/hlucas13/hlucas13/blob/main/icons/flutter.png" alt="Flutter" height="80px" title="Flutter"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/hibernate.png" alt="Hibernate" height="80px" title="Hibernate"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/jquery.png" alt="jQuery" height="80px" title="jQuery"/>
 <!-- <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/react.png" alt="React" height="80px" title="React"/> -->
