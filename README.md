@@ -3,13 +3,15 @@
   <h2 align="center">  🛹 Homero Lucas do Prado 🛹 </h2>
 </p>
 
--   💻 &lt;Junior Front-end Developer&gt; @ [VOQIN'](https://www.voqin.com/ "VOQIN'");
+-   💻 &lt;Junior FullStack Developer&gt; @ [VOQIN'](https://www.voqin.com/ "VOQIN'");
 -   🎓 [<Academia de Código\_>](https://www.academiadecodigo.org/ '<Academia de Código_>');
 -   📍 From Taubaté-SP, Brazil 🇧🇷. Living in Oeiras, Portugal 🇵🇹;
 <!-- -   🤝 I'm currently looking for a new role; -->
 -   📝 I'm currently learning intermediate and advanced JavaScript concepts, and starting to learn Flutter;
 -   📲 You can reach me on [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hmr.prd@gmail.com)](mailto:hmr.prd@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hlucas13/)](https://www.linkedin.com/in/hlucas13/);
 -   📄 You can download my CV [here (EN)](https://github.com/hlucas13/hlucas13/blob/main/assets/CV_-_Homero_do_Prado_-_EN.pdf 'here (EN)') or [here (PT)](https://github.com/hlucas13/hlucas13/blob/main/assets/CV_-_Homero_do_Prado_-_PT.pdf 'here (PT)').
+
+---
 
 ## Technologies I know and I'm learning
 
@@ -93,11 +95,15 @@
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/scrum.png" alt="Scrum" height="80px" title="Scrum"/>
 </p>
 
+---
+
 ## Statistics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlucas13&color=DE233E" alt="hlucas13" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hlucas13&include_all_commits=true&count_private=true&custom_title=Homero's GitHub Stats&show_icons=true&title_color=DE233E&text_color=FFFFFF&icon_color=959595&bg_color=000000" alt="hlucas13" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlucas13&layout=compact&langs_count=8&title_color=DE233E&text_color=FFFFFF&bg_color=000000" alt="hlucas13" /></p>
+
+---
 
 ## Let's connect:
 
