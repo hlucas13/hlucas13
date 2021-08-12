@@ -21,6 +21,7 @@
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/css3.png" alt="CSS3" height="80px" title="CSS3"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/html5.png" alt="HTML5" height="80px" title="HTML5"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/javascript.png" alt="JavaScript" height="80px" title="JavaScript"/>
+<img src="https://github.com/hlucas13/hlucas13/blob/main/icons/typescript.png" alt="TypeScript" height="80px" title="TypeScript"/>
 </p>
 
 #### Backend
@@ -45,6 +46,7 @@
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/bootstrap.png" alt="Bootstrap" height="80px" title="Bootstrap"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/express.png" alt="Express" height="80px" title="Express"/>
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/jquery.png" alt="jQuery" height="80px" title="jQuery"/>
+<img src="https://github.com/hlucas13/hlucas13/blob/main/icons/nest.png" alt="NestJS" height="80px" title="NestJS"/>
 </p>
 
 #### Tools
