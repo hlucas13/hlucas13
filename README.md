@@ -7,7 +7,7 @@
 -   🎓 [<Academia de Código\_>](https://www.academiadecodigo.org/ '<Academia de Código_>');
 -   📍 From Taubaté-SP, Brazil 🇧🇷. Living in Oeiras, Portugal 🇵🇹;
 <!-- -   🤝 I'm currently looking for a new role; -->
--   📝 I'm currently learning intermediate and advanced JavaScript concepts, and starting to learn Flutter;
+-   📝 I'm currently learning Angular and Nest.JS;
 -   📲 You can reach me on [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hmr.prd@gmail.com)](mailto:hmr.prd@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hlucas13/)](https://www.linkedin.com/in/hlucas13/);
 -   📄 You can download my CV [here (EN)](https://github.com/hlucas13/hlucas13/blob/main/assets/CV_-_Homero_do_Prado_-_EN.pdf 'here (EN)') or [here (PT)](https://github.com/hlucas13/hlucas13/blob/main/assets/CV_-_Homero_do_Prado_-_PT.pdf 'here (PT)').
 
