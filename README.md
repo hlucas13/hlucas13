@@ -3,11 +3,11 @@
   <h2 align="center">  🛹 Homero Lucas do Prado 🛹 </h2>
 </p>
 
--   💻 &lt;Junior FullStack Developer&gt; @ [VOQIN'](https://www.voqin.com/ "VOQIN'");
+-   💻 &lt;Junior Full Stack Developer&gt; @ [HN Services Portugal](hhttps://www.hn-services.com/en/our-locations/hn-services-portugal/ "HN Services Portugal") | [BNP Paribas Securities Services](https://securities.cib.bnpparibas/ "BNP Paribas Securities Services");
 -   🎓 [<Academia de Código\_>](https://www.academiadecodigo.org/ '<Academia de Código_>');
 -   📍 From Taubaté-SP, Brazil 🇧🇷. Living in Oeiras, Portugal 🇵🇹;
 <!-- -   🤝 I'm currently looking for a new role; -->
--   📝 I'm currently learning Angular and NestJS;
+-   📝 I'm currently learning TDD;
 -   📲 You can reach me on [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hmr.prd@gmail.com)](mailto:hmr.prd@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hlucas13/)](https://www.linkedin.com/in/hlucas13/);
 -   📄 You can download my CV [here (EN)](https://github.com/hlucas13/hlucas13/blob/main/assets/CV_-_Homero_do_Prado_-_EN_v2.pdf.pdf 'here (EN)').
 
