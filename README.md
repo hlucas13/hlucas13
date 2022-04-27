@@ -3,7 +3,7 @@
   <h2 align="center">  🛹 Homero Lucas do Prado 🛹 </h2>
 </p>
 
--   💻 &lt;Junior Full Stack Developer&gt; @ [HN Services Portugal](hhttps://www.hn-services.com/en/our-locations/hn-services-portugal/ "HN Services Portugal") | [BNP Paribas Securities Services](https://securities.cib.bnpparibas/ "BNP Paribas Securities Services");
+-   💻 &lt;Junior Full Stack Developer&gt; @ [HN Services Portugal](https://www.hn-services.com/en/our-locations/hn-services-portugal/ "HN Services Portugal") | [BNP Paribas Securities Services](https://securities.cib.bnpparibas/ "BNP Paribas Securities Services");
 -   🎓 [<Academia de Código\_>](https://www.academiadecodigo.org/ '<Academia de Código_>');
 -   📍 From Taubaté-SP, Brazil 🇧🇷. Living in Oeiras, Portugal 🇵🇹;
 <!-- -   🤝 I'm currently looking for a new role; -->
