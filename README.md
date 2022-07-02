@@ -36,7 +36,7 @@
 
 <p align="left">
 <img src="https://github.com/hlucas13/hlucas13/blob/main/icons/mysql.png" alt="MySQL" height="80px" title="MySQL"/>
-<img src="https://github.com/hlucas13/hlucas13/blob/main/icons/postegresql.png" alt="PostgreSQL" height="80px" title="PostgreSQL"/>
+<img src="https://github.com/hlucas13/hlucas13/blob/main/icons/postgresql.png" alt="PostgreSQL" height="80px" title="PostgreSQL"/>
 </p>
 
 #### Frameworks and Libraries
